@@ -1,0 +1,4 @@
+F:\Repository\PBS\Interfaces\bin\Debug\Interfaces.dll
+F:\Repository\PBS\Interfaces\bin\Debug\Interfaces.pdb
+F:\Repository\PBS\Interfaces\obj\Debug\Interfaces.dll
+F:\Repository\PBS\Interfaces\obj\Debug\Interfaces.pdb

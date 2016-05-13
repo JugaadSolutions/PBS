@@ -1,0 +1,9 @@
+F:\Repository\PBS\EntityModel\bin\Debug\EntityModel.dll
+F:\Repository\PBS\EntityModel\bin\Debug\EntityModel.pdb
+F:\Repository\PBS\EntityModel\bin\Debug\EntityFramework.dll
+F:\Repository\PBS\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Repository\PBS\EntityModel\bin\Debug\EntityFramework.xml
+F:\Repository\PBS\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Repository\PBS\EntityModel\obj\Debug\EntityModel.dll
+F:\Repository\PBS\EntityModel\obj\Debug\EntityModel.pdb
+F:\Repository\PBS\EntityModel\obj\Debug\EntityModel.csprojResolveAssemblyReference.cache

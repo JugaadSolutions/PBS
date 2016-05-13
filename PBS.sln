@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBS_POC", "PBS_POC\PBS_POC.csproj", "{3C568EA3-B10B-4A8E-9D67-9EF8B34DC901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityModel", "EntityModel\EntityModel.csproj", "{52EC8722-A585-4A9E-878E-8CFEDF922820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{C7554DBB-DA0D-4507-9760-D5044475F77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C568EA3-B10B-4A8E-9D67-9EF8B34DC901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C568EA3-B10B-4A8E-9D67-9EF8B34DC901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C568EA3-B10B-4A8E-9D67-9EF8B34DC901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C568EA3-B10B-4A8E-9D67-9EF8B34DC901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EC8722-A585-4A9E-878E-8CFEDF922820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EC8722-A585-4A9E-878E-8CFEDF922820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EC8722-A585-4A9E-878E-8CFEDF922820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EC8722-A585-4A9E-878E-8CFEDF922820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7554DBB-DA0D-4507-9760-D5044475F77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7554DBB-DA0D-4507-9760-D5044475F77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7554DBB-DA0D-4507-9760-D5044475F77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7554DBB-DA0D-4507-9760-D5044475F77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

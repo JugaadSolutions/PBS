@@ -1,0 +1,8 @@
+﻿<Window x:Class="PBS_POC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PBS_POC" >
+    <Grid Name="BaseGrid">
+        
+    </Grid>
+</Window>
